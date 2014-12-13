@@ -2,18 +2,3 @@ this is my profile , we can
 2 line
 
 about 5 th commit 
-
-<<<<<<< HEAD
-about 6 th commit
-
-about 7 th commit  
-=======
-about 6 th commit 
->>>>>>> 108a864584e697ac60acaf4f21c316dac1cfc1a4
-
-
-8th commit 
-
-9th commit 
-
-10 th co 
